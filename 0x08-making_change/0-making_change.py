@@ -5,7 +5,7 @@
 '''
 import sys
 
-def minCoins(coins, target):
+def makeChange(coins, target):
     '''
     Return: minimum number of coins required to reach the target amount.
     If the target is 0 or less, return 0.
