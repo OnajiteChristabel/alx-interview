@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 '''Prime Game'''
 
-def is_winner(num_rounds, num_list):
+def isWinner(num_rounds, num_list):
     '''Finds the winner'''
     winners_count = {'Maria': 0, 'Ben': 0}
 
